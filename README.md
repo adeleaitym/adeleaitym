@@ -1,7 +1,7 @@
-# Hey-hey, I'm Adele
+# Hey-hey, I'm Adele 👋
 <a href="https://www.linkedin.com/in/adele-a-b90a381b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Master's Student in Information Security at Stockholm University.
+📚 I am a Master's Student in Information Security at Stockholm University
 
 ## Objective
 
