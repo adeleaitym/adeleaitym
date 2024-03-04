@@ -1,18 +1,22 @@
-# Hey-hey, I'm Adele 👋
-<a href="https://www.linkedin.com/in/adele-a-b90a381b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--
 <h2 align="center">
   Hey-hey, I'm Adele !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
+<p align="center"> 
+  <samp>
+    「 I am a Master's Student in Information Security at <b>Stockholm University</b> 
+  </samp>
+</p>
 
-📚 I am a Master's Student in Information Security at Stockholm University
-![b43a9a78438313a7d2d8e6dfcaef8e8d](https://github.com/adeleaitym/adeleaitym/assets/161321795/f6cbd417-09f3-41c2-98dc-3b4ff6999d37)
+## About me 
+<p>
+   <img align="right" width="350" src="/images/coding.gif" alt="Coding gif" />
 
-## Objective
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+</p>
 
 ## Skills 👨‍💻
 
