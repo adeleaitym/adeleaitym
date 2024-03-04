@@ -5,11 +5,12 @@
 <img align="right" width="250" src="/images/programming.gif" alt="Coding gif" />
 <p>
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; MSc in Information Security <br/><br/>
+ ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
-
+ 📧 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
 </p>
+
 
 ## Skills 👨‍💻
 | Skill                                         | Associated Project         |
