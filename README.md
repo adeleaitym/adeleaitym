@@ -8,7 +8,6 @@
   </samp>
 </p>
 
-## About me 
 <p>
 <img align="right" width="220" src="/images/programming.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
