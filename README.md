@@ -2,11 +2,6 @@
   Hey-hey, I'm Adele !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<p align="center"> 
-  <samp>
-    「 I am a Master's Student in Information Security at <b>Stockholm University</b> 
-  </samp>
-</p>
 
 <p>
 <img align="right" width="220" src="/images/programming.gif" alt="Coding gif" />
