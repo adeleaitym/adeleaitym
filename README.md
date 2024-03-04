@@ -10,7 +10,7 @@
 
 ## About me 
 <p>
-   <img align="right" width="350" src="/images/girl.gif" alt="Coding gif" />
+   <img align="right" width="250" src="/images/coding-for-kids.gif" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -19,7 +19,6 @@
 </p>
 
 ## Skills 👨‍💻
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
