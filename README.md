@@ -5,10 +5,10 @@
 <img align="right" width="250" src="/images/programming.gif" alt="Coding gif" />
 <p>
 
- ✌️ &emsp; MSc in Information Security <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
- 📧 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
+ 🎓 &emsp; MSc in <a href="https://www.su.se/english/search-courses-and-programmes/smino-1.411366">Information Security</a> at Stockholm University. Graduating June, 2025 💖<br/><br/>
+ ✨ &emsp; From Words to Wards: transitioned from a Languages background to IT<br/><br/>
+ 🎀 &emsp; Fueling my journey through self-teaching and fun projects<br/><br/>
+ 💌 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
 </p>
 
 
