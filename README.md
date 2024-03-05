@@ -7,7 +7,7 @@
 
  🎓 &emsp; MSc in <a href="https://www.su.se/english/search-courses-and-programmes/smino-1.411366">Information Security</a> at Stockholm University. Graduating June, 2025 💖<br/><br/>
  ✨ &emsp; From Words to Wards: transitioned from a Languages background to IT<br/><br/>
- 🎀 &emsp; Fueling my journey through self-teaching and fun projects<br/><br/>
+ 🎀 &emsp; Created this account to log my growth as a student<br/><br/>
  💌 &emsp; Reach me anytime: adviles.24@gmail.com<br/><br/>
 </p>
 
